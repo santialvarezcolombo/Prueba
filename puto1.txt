@@ -1,3 +1,4 @@
+
 vamos a escribir un par de lineas
 
 para ver que mierda hace el coso este en el merge
@@ -6,4 +7,4 @@ para ver que mierda hace el coso este en el merge
 		
 		que le dijo la soda al vino?
 		
-shhhhh
+
